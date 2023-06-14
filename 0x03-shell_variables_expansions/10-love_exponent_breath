@@ -1,3 +1,2 @@
 #!/bin/bash
-case 
 echo $((BREATH**LOVE))
